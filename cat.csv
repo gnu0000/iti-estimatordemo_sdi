@@ -1,0 +1,940 @@
+000-00005 Design (NFA CDOT)
+000-00010 Design (Fed Aid CDOT)
+000-00020 Design (Consultant)
+000-00030 Const Engineering (Consultant)
+000-00035 Const Engineering (NFA)
+000-00050 Indirect Costs (CE Only)
+000-00070 Obsolete-Use 700-70035 11/97
+103-03000 Project Commitment Amount
+201-00000 Clear and Grub
+201-00001 Clear and Grub
+201-00002 Clearing
+202-00000 Rem Str and Obstructions
+202-00001 Rem Structure
+202-00002 Rem of Structure (Spec)
+202-00005 Rem Temporary Supports
+202-00006 Rem Temporary Supports
+202-00009 Tree Trimming
+202-00010 Rem Tree
+202-00011 Tree Trimming
+202-00012 Rem Tree Stump
+202-00014 Brush Clearing
+202-00015 Rem Headwall
+202-00020 Rem CBC
+202-00025 Rem Ditch Lining
+202-00026 Rem S and D Pave
+202-00027 Rem Riprap
+202-00029 Rem Gabion
+202-00030 Rem Water Service
+202-00031 Rem of Fire Hydrant
+202-00033 Rem Pipe
+202-00035 Rem Pipe
+202-00037 Rem of End Section
+202-00038 Rem Structural Plate Pipe
+202-00040 Rem Elec Conduit
+202-00070 Rem Barricade
+202-00080 Rem Guard Post
+202-00090 Rem Delineator
+202-00150 Rem Wall
+202-00155 Rem Wall
+202-00160 Rem Wall
+202-00165 Rem Wall
+202-00175 Rem Concrete
+202-00190 Rem of Conc Median Cover
+202-00195 Rem of Median Cover
+202-00200 Rem Sidewalk
+202-00201 Rem Curb
+202-00202 Rem Gutter
+202-00203 Rem Curb and Gutter
+202-00204 "Rem CG and Sidewalk"
+202-00205 Rem Wheel Stop
+202-00210 Rem Conc Pavement
+202-00215 Rem Conc Pvmt (Planing)
+202-00220 Rem Asphalt Mat
+202-00226 Rem of Asph Mat (Special)
+202-00240 Rem Asphalt Mat (Planing)
+202-00245 Rem Asphalt Mat (Planing)
+202-00246 Rem Asphalt Mat (Planing)(Spec)
+202-00247 Rem Asphalt Mat (Planing)
+202-00250 Rem Pavement Marking
+202-00400 Rem Bridge
+202-00410 Rem Mat From Br
+202-00425 Rem Bridge Railing
+202-00450 Rem Port Present Str (1)
+202-00454 Rem Port Present Str (2A)
+202-00456 Rem Port Present Str (2B)
+202-00460 Rem Port Present Str (3)
+202-00462 Rem Port Present Str (3A)
+202-00466 Rem Port Present Str (4)
+202-00480 Rem Port Present Str (Special)
+202-00495 Rem Port Present Str
+202-00500 Rem Port Present Str
+202-00502 Rem Port Present Str
+202-00503 Rem Port Present Str
+202-00504 Rem Exp Device
+202-00510 Rem Contraction Jt
+202-00520 Rem of Exp Joint Matl
+202-00600 Rem Railroad Appurtenances
+202-00610 Rem of RR Track
+202-00620 Rem of RR Crossover
+202-00621 Rem of RR Turnout
+202-00700 Rem Light Standard
+202-00725 Rem Ex Lighting Sys
+202-00750 Rem Luminaire
+202-00800 Rem Overpass Mtd Sign Brkt
+202-00805 Rem Overhead Sign Str
+202-00810 Rem Ground Sign
+202-00815 Rem of Sign (Special)
+202-00821 Rem Sign Panel
+202-00825 Rem Flashing Beacon
+202-00828 Rem Traf Sig Equipment
+202-00830 Rem Traf Sig Face
+202-00831 Rem Traf Sig Head
+202-00840 Rem Traf Sig Pole
+202-00842 Rem Mast Arm
+202-00845 Rem Traf Sig Controller
+202-00848 Rem Traf Sig Control+Cab
+202-00855 Rem Traf Sig Control Cab
+202-00858 Rem Pedestal Pole
+202-00860 Rem Ped Push Button
+202-00870 Rem Coordination Unit
+202-00873 Rem Tone Decoder
+202-00880 Rem Sig Veh Detector Amp
+202-00882 Rem Detector (Magnetic)
+202-00890 Rem Span Wire Cable
+202-00895 Rem of Impact Attenuator
+202-00900 Rem Conc Footing
+202-01000 Rem Fence
+202-01020 Rem Sound Barrier Fence
+202-01030 Rem of Road Closure Gate
+202-01110 Rem Gdrail Ty 1
+202-01130 Rem Gdrail Ty 3
+202-01135 Rem Gdrail Thrie Beam
+202-01140 Rem Gdrail Ty 4
+202-01150 Rem Gdrail Ty 5
+202-01300 Rem End Anchorage
+202-01400 Removal of Cattle Guard
+202-04000 Plug Structure
+202-04001 Plug Culvert
+202-04002 Clean Culvert
+202-04005 Clean Valve Box
+202-04040 Clean Box Girder
+202-04100 Abandon Well
+202-04200 Plug Storage Tank
+202-05000 Transverse Grooving
+202-05002 Sawing Concrete (50 mm)
+202-05004 Sawing Concrete (100 mm)
+202-05006 Sawing Concrete (150 mm)
+202-05008 Sawing Concrete (200 mm)
+202-05010 Sawing Concrete (250 mm)
+202-05011 Sawing Concrete (270 mm)
+202-05026 Sawing Asphalt Mat (150 mm)
+202-05100 Sandblasting Reinf Steel
+202-05150 Sandblasting
+202-05300 Rem and Disposal of Paint
+202-06000 Rem Detour
+202-06500 Rem of Restraining Bar
+202-06510 Rem Inspection Car Rail
+202-06520 Rem of Existing Wall Panel
+202-06530 Clean Drain Pipe (Spec)
+202-07000 Oblit Old Road
+203-00000 Uncl Excav
+203-00010 Uncl Excav (CIP)
+203-00012 Uncl Excav (CIP) (Spec)
+203-00040 Uncl Excav (Spec)
+203-00060 Emb Matl (CIP)
+203-00061 Emb Matl (CIP)
+203-00062 Emb Matl (CIP) (Spec)
+203-00100 Muck Excav
+203-00200 Borrow
+203-00210 Borrow (CIP)
+203-00400 Rock Excav
+203-00440 Rock Excav (Spec)
+203-00500 Rock Fill
+203-00590 Rock Placement
+203-00595 Rock Scaling
+203-00600 Stripping
+203-00700 Reclaim Pit
+203-00710 Clay Plating (CIP)
+203-00810 Sawdust Fill (CIP)
+203-00840 Polystyrene Fill
+203-00850 Polystyrene Fill (CIP)
+203-00900 Contaminated Soil Excav
+203-00910 Contam Soil Excav & Disposal
+203-01020 Compaction (AASHTO T 99)
+203-01030 Compaction (AASHTO T 180)
+203-01100 Proof Rolling
+203-01120 Vibratory Rolling
+203-01140 Rolling
+203-01500 Blading
+203-01510 Backhoe
+203-01515 Backhoe (Landscaping)
+203-01520 Backhoe (Spec)
+203-01548 Pump
+203-01549 Pump
+203-01550 Dozing
+203-01551 Dozing (Heavy)
+203-01555 Dozing (Landscaping)
+203-01580 Truck
+203-01582 Truck (Dump)
+203-01583 Truck (Tractor)
+203-01590 Front End Loader (Rubber)
+203-01591 Front End Loader (Crawler)
+203-01592 Front End Loader (Special)
+203-01594 Combination Loader
+203-01596 Potholing W/ Surveying
+203-01597 Potholing
+203-01600 Crane (Crawler)
+203-01610 Crane (Rubber Tired)
+203-01615 Crane (Scaling)
+203-01620 Sweeping
+203-01625 Hydraulic Excavator Scaling
+203-02000 Drill and Blast
+203-02060 Presplitting
+203-02300 Rock Scaler
+203-02310 Scaler Foreman
+203-02312 Hand Scaling
+203-02315 Mechanized Scaling
+203-02320 Blaster
+203-02330 Laborer
+206-00000 Str Excav
+206-00010 Str Excav (Spec)
+206-00050 Str Bkfl (Spec)
+206-00060 Str Bkfl (Spec) (Flow-Fill)
+206-00065 Str Bkfl (Flow-Fill)
+206-00100 Str Bkfl (CL 1)
+206-00200 Str Bkfl (CL 2)
+206-00360 Mechanical Reinforcement of Soil
+206-00505 Filter Matl (Spec)
+206-00510 Filter Matl (CL A)
+206-00520 Filter Matl (CL B)
+206-00530 Filter Matl (CL C)
+206-01000 Bed Course Matl
+206-01001 Bed Course Matl (Spec)
+206-01010 Bed Course Matl
+206-01500 Cofferdam
+206-01600 Temp Excav Support
+206-01701 Temp Excav Support (A 1)
+206-01702 Temp Excav Support (A 2)
+206-01703 Temp Excav Support (A 3)
+206-01750 Shoring
+207-00205 Topsoil
+207-00210 Stockpile Topsoil
+207-00305 Wetland Topsoil
+207-00310 Stockpile Wetland Topsoil
+207-00405 Topsoil (Spec)
+207-01110 Planter Soil Mix
+208-00001 Silt Dike
+208-00005 Erosion Log
+208-00006 Erosion Log (Special)
+208-00010 Erosion Bales
+208-00011 Erosion Bales (Weed Free)
+208-00015 Sand Bag
+208-00020 Silt Fence
+208-00030 Sediment Basin
+208-00033 Sediment Trap
+208-00040 Check Dam
+208-00050 Storm Drain Inlet Protection
+208-00060 Temporary Slope Drain
+208-00070 Stabilized Construction Entrance
+208-00100 Sediment Removal and Disposal
+208-00110 Sediment Removal and Disposal
+208-00200 Erosion Control Supervisor
+208-00205 Erosion Control Supervisor
+208-00300 Temporary Berms
+209-00000 Water
+209-00050 Water
+209-00100 Water (Landscaping)
+209-00600 Dust Palliative (Mg Cl)
+209-00601 Dust Palliative (Mg Cl)
+210-00001 Res Structure
+210-00007 Res Wheel Stop
+210-00010 Res Mailbox Str
+210-00011 Res Mailbox Str (Ty 1)
+210-00012 Res Mailbox Str (Ty 2)
+210-00013 Res Mailbox Str (Ty 3)
+210-00014 Res Mailbox Str (Ty 4)
+210-00015 Res End Section
+210-00030 Res Water Service
+210-00035 Res Water Meter
+210-00040 Res Water Line
+210-00050 Res Fire Hydrant
+210-00060 Res Marker
+210-00065 Res Monument (Ty 3A)
+210-00070 Res Barricade
+210-00090 Res Delineator
+210-00100 Res Trash Guard
+210-00400 Res Expan Device
+210-00410 Modify Bridge Expan Device
+210-00420 Res Timbers
+210-00425 Res Bridge Railing
+210-00427 Res Pipe Handrailing
+210-00440 Repair Curb
+210-00450 Repair Overhead Sign Stru
+210-00472 Res Metal Panels
+210-00473 Res TV Cameras
+210-00474 Res Traf Contr Signal Head
+210-00480 Pier Restoration
+210-00500 Reb Port Present Str
+210-00510 Reb Port Present Str
+210-00650 Reb Timber Deck
+210-00750 Res Light Standard
+210-00755 Res Light Standard Steel
+210-00760 Res Luminaire
+210-00805 Res Overhead Sign Str
+210-00810 Res Ground Sign
+210-00815 Res Sign Panel
+210-00820 Res Var Mesg Sign
+210-00825 Res Flashing Beacon
+210-00830 Res Traf Sig Face
+210-00831 Res Traf Sig Head
+210-00840 Res Traf Sig Pole
+210-00842 Res Traf Sig Mast Arm
+210-00845 Res Traf Sig Cntrlr
+210-00848 Res Traf Sig Control+Cab
+210-00855 Res Traf Sig Control Cab
+210-00858 Res Pedestal Pole
+210-00860 Res Ped Push Button
+210-00865 Res Ped Sig Head
+210-00866 Res Fire Preempt Unit+Timer
+210-00867 Res Fire Preempt Unit
+210-00870 Res Coordination Unit
+210-00873 Res Tone Decoder
+210-00875 Res Surface Cond Analyser
+210-00880 Res Sig Veh Detector Amp
+210-00882 Res Detector
+210-00885 Res Loop Detector (Micro Type)
+210-00900 Res Traffic Counter (Temp)
+210-00910 Res Traffic Counter (Perm)
+210-01000 Res Fence
+210-01001 Modify Fence
+210-01005 Res Fence Post
+210-01010 Res Gate Post
+210-01011 Res Gate
+210-01025 Res Snow Fence
+210-01050 Res C L Fence
+210-01130 Res Gdrail Ty 3
+210-01135 Res Gdrail Thrie Beam
+210-01140 Res Gdrail Ty 4
+210-01150 Res Gdrail Ty 5
+210-01160 Res Gdrail Ty 6
+210-01200 Res End Anchorage
+210-01300 Res Impact Attenuator
+210-01700 Res Sprinkler Head
+210-01710 Res Valve
+210-01720 Res Air Vent
+210-01730 Res Parshall Flume
+210-01996 Relay Pipe (20 mm)
+210-02002 Relay Pipe (50 mm)
+210-02003 Relay Pipe (75 mm)
+210-02004 Relay Pipe (100 mm)
+210-02006 Relay Pipe (150 mm)
+210-02008 Relay Pipe (200 mm)
+210-02009 Relay Pipe (225 mm)
+210-02010 Relay Pipe (250 mm)
+210-02012 Relay Pipe (300 mm)
+210-02015 Relay Pipe (375 mm)
+210-02016 Relay Pipe (400 mm)
+210-02018 Relay Pipe (450 mm)
+210-02021 Relay Pipe (525 mm)
+210-02024 Relay Pipe (600 mm)
+210-02027 Relay Pipe (700 mm)
+210-02030 Relay Pipe (750 mm)
+210-02036 Relay Pipe (900 mm)
+210-02042 Relay Pipe (1050 mm)
+210-02048 Relay Pipe (1200 mm)
+210-02054 Relay Pipe (1350 mm)
+210-02060 Relay Pipe (1500 mm)
+210-02066 Relay Pipe (1650 mm)
+210-02072 Relay Pipe (1800 mm)
+210-02078 Relay Pipe (1950 mm)
+210-02084 Relay Pipe (2100 mm)
+210-02136 Relay Arch Pipe (900 mm)
+210-02510 Relay Sprinkler System
+210-02800 Relay Sidewalk
+210-02900 Relay Riprap
+210-03100 Replace Conc Pvmt
+210-04000 Adj Structure
+210-04010 Adj Manhole
+210-04011 Adj Manhole (spec)
+210-04015 Modify Manhole
+210-04016 Modify Manhole (Spec)
+210-04020 Modify Inlet
+210-04025 Modify Structure
+210-04030 Modify Guardrail
+210-04050 Adj Valve Box
+210-04051 Adj Valve Box (Spec)
+210-04200 Adj Gdrail
+210-04500 Relocate Building
+211-00000 Tunnel Excav
+211-00005 Tunnel Excav (H)
+211-00100 Drilling Hole
+211-00105 25 mm Drilled Hole
+211-00116 50 mm Drilled Hole
+211-00124 75 mm Drilled Hole
+211-00136 100 mm Drilled Hole
+211-00148 150 mm Drilled Hole
+211-00212 38 mm Core Drilled Hole
+211-00224 75 mm Core Drilled Hole
+211-01008 Rock Bolt (25 mm)
+211-01016 Rock Bolt (50 mm)
+211-01024 Rock Bolt (75 mm)
+211-01100 Rock Reinf (Bolts)
+211-01110 Rock Reinf (Dowels)
+211-01115 Rock Reinf (No.10)
+211-01120 Rock Reinf (Spiles)
+211-01130 Auxil Anchor Dowel
+211-01150 Rock Reinf Tests
+211-01160 Trial Pull Test
+211-01200 Rock Anchor
+211-01300 Rock Anchor
+211-01409 Rock Anchor (3 m)
+211-01455 Rock Tiedown Anchor (Cem Gr)
+211-01456 Rock Tiedown Anchor (Cem Gr)
+211-01511 Rock Reinf (R G No.30) RB
+211-02012 Soil Anchor (31 mm)
+211-02116 Rock Dowel
+211-02205 Buttress Berm Grouting
+211-02210 Pre Grouting
+211-02220 Re-Grouting
+211-02230 Grout Conn
+211-02232 Grout Conn (Pre-Grout)
+211-02233 Grout Conn (Contact Grout)
+211-02240 Contact Grouting
+211-02250 Steel Pipe For Grouting
+211-02260 Chemical Grout
+211-02270 Cement Grout
+211-02275 Cement Grout
+211-02280 Type A Grout
+211-02290 Type B Grout
+211-03001 Dewatering Special
+211-03005 Dewatering
+212-00005 Seeding (Native)
+212-00006 Seeding (Native)
+212-00007 Seeding (Native) (Hydraulic)
+212-00009 Seeding (Temporary)
+212-00011 Seeding (Lawn)
+212-00015 Seeding (Forbs)
+212-00020 Seeding (Forbs)
+212-00025 Seeding (Shrubs)
+212-00027 Seeding (Trees)
+212-00028 Seeding (Wetlands)
+212-00040 Soil Preparation (Lawn)
+212-00047 Soil Preparation (Spec)
+212-00048 Soil Preparation (Spec)
+212-00050 Sod
+212-00055 Sod (Buffalograss)
+212-00900 Compost
+212-01200 Landscape Restoration
+213-00000 Mulching
+213-00001 Mulching
+213-00002 Mulching (Weed Free Hay)
+213-00003 Mulching (Weed Free)
+213-00004 Mulching (Weed Free Straw)
+213-00005 Mulching (Decorative)
+213-00006 Mulching (Weed Free)
+213-00008 Mulching (Wood Chip)
+213-00011 Mulching (Hydraulic)
+213-00061 Mulch Tackifier
+213-00070 Landscape Weed Barr Fabric
+213-00100 Soil Binder
+213-00150 Bonded Fiber Matrix
+213-00212 300 mm Root Barrier
+213-00218 450 mm Root Barrier
+213-00300 Conc Landscape Border
+213-00400 Inst Landscape Border
+213-00440 Landscape Border (3x100 mm)
+213-00460 Landscape Border (5x100 mm)
+213-00462 Landscape Border (5x138 mm)
+213-00468 Landscape Border (5x250 mm)
+213-00470 Landscape Border (6x125 mm)
+213-00500 Tree Grate
+213-00510 Inst Tree Grate
+213-00550 Tree Ring
+213-00600 Landscape Log
+213-00610 Landscape Log
+213-00700 Landscape Boulder
+213-00705 Landscape Boulder (Special)
+214-00000 Landscape Maintenance
+214-00155 Plant (B and B)
+214-00160 Furn Plant (B and B)
+214-00161 Inst Plant (B and B)
+214-00201 Deciduous Tree (Tubeling)
+214-00210 Deciduous Tree (25 mm C)
+214-00215 Deciduous Tree (38 mm C)
+214-00217 Furn Decid Tree (38 mm C)
+214-00220 Deciduous Tree (50 mm C)
+214-00222 Furn Decid Tree (50 mm C)
+214-00225 Deciduous Tree (63 mm C)
+214-00227 Furn Deciduous Tree (63 mm C)
+214-00230 Deciduous Tree (75 mm C)
+214-00235 Deciduous Tree (88 mm C)
+214-00240 Deciduous Tree (100 mm C)
+214-00260 Deciduous Tree (1.8 m)
+214-00262 Furn Decid Tree (1.8 m)
+214-00280 Deciduous Tree (2.4 m)
+214-00282 Furn Decid Tree (2.4 m)
+214-00301 Deciduous Shrub (Tubeling)
+214-00310 Deciduous Shrub (No. 1)
+214-00330 Deciduous Shrub (No. 3)
+214-00350 Deciduous Shrub (No. 5)
+214-00365 Furn Plant (63 mm C)
+214-00370 Deciduous Shrub (No. 7)
+214-00410 Evergreen Tree (No. 1)
+214-00450 Evergreen Tree (No. 5)
+214-00455 Install Evergreen Tree (No. 7)
+214-00470 Evergreen Tree (No. 7)
+214-00502 Evergreen Tree (0.6 m)(B-B)
+214-00504 Evergreen Tree (1.2 m)(B-B)
+214-00505 Furn Evergreen Tree (1.2 m)
+214-00506 Evergreen Tree (1.8 m)(B-B)
+214-00507 Furn Evergreen Tree (1.8 m)(B-B)
+214-00508 Evergreen Tree (2.4 m)(B-B)
+214-00509 Furn Evergreen Tree (2.4 m)(B-B)
+214-00510 Evergreen Tree (3 m)(B-B)
+214-00511 Furn Evergreen Tree (3 m)(B-B)
+214-00512 Evergreen Tree (3.6 m)(B-B)
+214-00514 Evergreen Tree (4.2 m)(B-B)
+214-00601 Evergreen Shrub (Tubeling)
+214-00610 Evergreen Shrub (No. 1)
+214-00630 Evergreen Shrub (No. 3)
+214-00650 Evergreen Shrub (No. 5)
+214-00670 Evergreen Shrub (No. 7)
+214-00701 Brdlf Evrgrn Shrub (Tubeling)
+214-00710 Brdlf Evrgrn Shrub (No. 1)
+214-00730 Brdlf Evrgrn Shrub (No. 3)
+214-00750 Brdlf Evrgrn Shrub (No. 5)
+214-00770 Brdlf Evrgrn Shrub (No. 7)
+214-00801 Gr Cover Vines (Tubeling)
+214-00805 Gr Cover Vines (56 mm Pot)
+214-00810 Gr Cover Vines (No. 1)
+214-00850 Gr Cover Vines (No. 5)
+214-00901 Perennials (Tubeling)
+214-00905 Perennials (56 mm Pot)
+214-00908 Perennials (No. 0.25)
+214-00910 Perennials (No. 1)
+214-00950 Perennials (No. 5)
+214-01000 Bulb
+214-01010 Brush Layer Cutting
+214-01011 Brush Layer Cutting
+214-01015 Willow Cuttings
+214-01020 Hedge Layer Plant
+214-01025 Dormant Log Cutting
+214-01030 Wattle
+214-01140 Plant Shade Shelter
+214-01200 Plant (Tubeling)
+214-01210 Furn Plant (Tubeling)
+214-01215 Inst Plant (Tubeling)
+214-01220 Furn Plant (Bareroot)
+214-01225 Inst Plant (Bareroot)
+214-01230 Furn Plant (56 mm Pot)
+214-01235 Inst Plant (56 mm Pot)
+214-01310 Furn Plant (No. 1)
+214-01315 Inst Plant (No. 1)
+214-01350 Furn Plant (No. 5)
+214-01355 Inst Plant (No. 5)
+214-01370 Furn Plant (No. 7)
+214-01375 Inst Plant (No. 7)
+215-00000 Transplant Shrub
+215-00001 Transplant Shrub
+215-00010 Transplant Tree
+215-00030 Transplant Tree (38-75 mm C)
+215-00060 Transplant Tree (75-150 mm C)
+215-00100 Transplant Tree (+150 mm C)
+215-00200 Transplant Tree (B-B)
+215-00500 Transplant Seedling
+215-00600 Transplant Plug
+216-00013 Mulch Netting (Plastic)
+216-00015 Soil Reten Blanket (Excel)
+216-00025 Soil Reten Blanket (Jute)
+216-00030 Soil Reten Blanket (Spec)
+216-00035 Soil Reten Blanket (Plastic)
+216-00050 Soil Reten Grid
+216-00060 Soil Reten System
+216-00070 Geocell Confinement Sys
+217-00000 Herbicide Treatment
+217-00010 Pre-Emergent Herbicide
+217-00020 Herbicide Treatment
+217-00100 Root Control Fabric
+250-00010 Envir Health/Safety Mngmt
+250-00050 Monitoring Technician
+250-00100 Environmental Health and Safety
+250-00110 Health and Safety Officer
+250-00120 Material Sampling and Delivery
+250-00200 Material Handling (Stockpile)
+250-00210 Solid Waste Disposal
+250-00220 Hazardous Waste Disposal
+250-00300 Water Treatment System
+250-00310 Water Treatment
+251-00000 Paint Testing and Analysis Mngmt
+251-00010 Paint Rem and Disposal Mngmt
+252-00010 Fug Petro Health/Safety Mngmt
+253-00010 Asbestos Contain Matl Mngmt
+255-00010 Paint Str Comp Rem/Disp Mngmt
+301-06000 PMBB (CL 6)
+301-06020 PMBB (CL 6) (Asph)
+301-10020 PATB (Asph)
+304-01000 ABC (CL 1)
+304-01005 ABC (CL 1)
+304-02000 ABC (CL 2)
+304-02005 ABC (CL 2)
+304-03000 ABC (CL 3)
+304-03005 ABC (CL 3)
+304-04000 ABC (CL 4)
+304-05000 ABC (CL 5)
+304-06000 ABC (CL 6)
+304-06001 ABC (CL 6) (C)
+304-06004 ABC (CL 6)
+304-06007 ABC (CL 6)
+304-06008 ABC (CL 6) (Spec)
+304-06009 ABC (CL 6) (Spec)
+304-07000 ABC (CL 7)
+304-07009 ABC (CL 7) (Spec)
+304-09000 ABC (Spec)
+304-09014 ABC (Spec)
+304-09020 ABC (Permeable)
+304-09055 ABC (Blotter)
+304-09200 Stockpile ABC (Spec)
+304-09220 Stockpile ABC (Spec)
+306-00000 Reconditioning
+306-01000 Reconditioning
+307-00000 Hydrated Lime
+307-00200 Lime Tr Subgrade
+307-00206 Lime Tr Subgrade (150 mm)
+307-00208 Lime Tr Subgrade (200 mm)
+307-00209 Lime Tr Subgrade (225 mm)
+307-00210 Lime Tr Subgrade (250 mm)
+307-00212 Lime Tr Subgrade (300 mm)
+307-00250 Fly Ash Tr Subgrade
+308-00001 Portland Cement
+308-00100 Cement Tr Base
+308-00500 Fiber Reinf Soilcrete
+308-09000 Lean Concrete
+309-10600 Lean Concrete Base (150 mm)
+310-00400 Asphalt Mat For Base Course
+403-00720 HBP (Patching) (Asph)
+403-00721 HBP (Patching) (Asph)
+403-01000 HBP (Asph) (3 Yr Warranty)
+403-01010 HBP (Asph) (5 Yr Warranty)
+403-01020 HBP (Asph) (10 Yr Warranty)
+403-03000 HBP (Gr C)
+403-03020 HBP (Gr C) (Asph)
+403-03024 HBP (Gr C) (Asph) (R)
+403-03026 HBP (Gr C) (Asph) (P)
+403-03027 HBP (Gr C) (Asph-HL) (P)
+403-03569 HBP (Gr C) (Asph) (Spec)
+403-03570 HBP (Gr C) (Asph) (Spec)
+403-03571 HBP (Gr C) (Asph) (R) (Spec)
+403-03610 HBP (Gr CX)
+403-03620 HBP (Gr CX) (Asph)
+403-03622 HBP (Gr CX) (Asph-HL)
+403-03624 HBP (Gr CX) (Asph) (R)
+403-03626 HBP (Gr CX) (Asph) (P)
+403-03670 HBP (Gr CX) (Asph) (Spec)
+403-06020 HBP (Gr F) (Asph)
+403-06570 HBP (Gr F) (Asph) (Spec)
+403-07010 HBP (Gr G)
+403-07020 HBP (Gr G) (Asph)
+403-09110 SMA
+403-09120 SMA (Vesto Plast) (Asph)
+403-09121 SMA (Fibers) (Asph)
+403-09126 SMA (Asph) (P)
+403-09500 Furnish HBP
+403-09600 HBP (Bond Breaker)
+403-10000 Longitudinal Joint Test
+403-11020 HBP (Gr C) (Asph) (Rumac)
+403-11121 HBP (Gr C) (Asph) (Rumac) (1% Crm)
+403-11122 HBP (Gr C) (Asph) (Rumac) (2% Crm)
+403-11123 HBP (Gr C) (Asph) (Rumac) (3% Crm)
+403-11300 HBP (Gr C) (C 170)
+403-11320 HBP (Gr C) (Asph) (C 170)
+403-11324 HBP (Gr C) (Asph) (R) (C 170)
+403-11326 HBP (Gr C) (Asph) (P) (C 170)
+403-11370 HBP (Gr C) (Asph) (Spec) (C 170)
+403-11400 HBP (Gr CX) (C 170)
+403-11420 HBP (Gr CX) (Asph) (C 170)
+403-11424 HBP (Gr CX) (Asph) (R) (C 170)
+403-11426 HBP (Gr CX) (Asph) (P) (C 170)
+403-11470 HBP (Gr CX) (Asph) (Spec) (C 170)
+403-12300 HBP (Gr C) (C 340)
+403-12320 HBP (Gr C) (Asph) (C 340)
+403-12324 HBP (Gr C) (Asph) (R) (C 340)
+403-12326 HBP (Gr C) (Asph) (P) (C 340)
+403-12370 HBP (Gr C) (Asph) (Spec) (C 340)
+403-12371 HBP (Gr C) (Asph) (R) (Spec) (C 340)
+403-12400 HBP (Gr CX) (C 340)
+403-12420 HBP (Gr CX) (Asph) (C 340)
+403-12424 HBP (Gr CX) (Asph) (R) (C 340)
+403-12426 HBP (Gr CX) (Asph) (P) (C 340)
+403-12470 HBP (Gr CX) (Asph) (Spec) (C 340)
+403-12520 HBP (Gr Fines) (Asph) (C 340)
+403-13300 HBP (Gr C) (Asph) (C 520)
+403-13301 HBP (Gr C) (C 520)
+403-13320 HBP (Gr C) (Asph) (C 520)
+403-13321 HBP (Gr C) (Asph) (C 520)
+403-13324 HBP (Gr C) (Asph) (R) (C 520)
+403-13326 HBP (Gr C) (Asph) (P) (C 520)
+403-13342 HBP (Gr C) (Asph) (C 520) (PG 64-28)
+403-13344 HBP (Gr C) (Asph) (C 520) (PG 70-34)
+403-13370 HBP (Gr C) (Asph) (Spec)
+403-13371 HBP (Gr C) (Asph) (R) (S) (C 520)
+403-13400 HBP (Gr CX) (C 520)
+403-13420 HBP (Gr CX) (Asph) (C 520)
+403-13424 HBP (Gr CX) (Asph) (R) (C 520)
+403-13426 HBP (Gr CX) (Asph) (P) (C 520)
+403-13470 HBP (Gr CX) (Asph) (Spec) (C 520)
+403-14300 HBP (Gr C) (C 690)
+403-14320 HBP (Gr C) (Asph) (C 690)
+403-14324 HBP (Gr C) (Asph) (R) (C 690)
+403-14326 HBP (Gr C) (Asph) (P) (C 690)
+403-14342 HBP (Gr C) (Asph) (C 690) (PG 64-28)
+403-14344 HBP (Gr C) (Asph) (C 690) (PG 70-34)
+403-14370 HBP (Gr C) (Asph) (Spec) (C 690)
+403-14371 HBP (Gr C) (Asph) (R) (Spec) (C 690)
+403-14400 HBP (Gr CX) (C 690)
+403-14420 HBP (Gr CX) (Asph) (C 690)
+403-14424 HBP (Gr CX) (Asph) (P) (C 690)
+403-14426 HBP (Gr CX) (Asph) (P) (C 690)
+403-14470 HBP (Gr CX) (Asph) (Spec) (C 690)
+403-15300 HBP (Gr C) (C 860)
+403-15320 HBP (Gr C) (Asph) (C 860)
+403-15321 HBP (Gr C) (Asph) (C 860)
+403-15324 HBP (Gr C) (Asph) (R) (C 860)
+403-15326 HBP (Gr C) (Asph) (P) (C 860)
+403-15370 HBP (Gr C) (Asph) (Spec) (C 860)
+403-15400 HBP (Gr CX) (C 860)
+403-15420 HBP (Gr CX) (Asph) (C 860)
+403-22320 HBP (Gr SP 19) (Asph) (76)
+403-22445 HBP (Gr SP 12.5) (Asph) (76) (PG 76-28)
+403-23320 HBP (Gr SP 19) (Asph) (86)
+403-24400 HBP (Gr SP 12.5) (96)
+403-25320 HBP (Gr SP 19) (Asph) (109)
+403-25342 HBP (Gr SP 19) (Asph) (109) (PG 64-28)
+403-25344 HBP (Gr SP 19) (Asph) (109) (PG 70-34)
+403-31300 HBP (Gr S) (68)
+403-31341 HBP (Gr S) (Asph) (68) (PG 58-40)
+403-31351 HPB (Gr S) (Asph) (68) (PG 58-28)
+403-31400 HBP (Gr SX) (68)
+403-31453 HBP (Gr SX) (Asph) (68) (PG 58-22)
+403-32254 HBP (Gr SG) (Asph) (76) (PG 64-22)
+403-32300 HBP (Gr S) (76)
+403-32324 HBP (Gr S) (Asph) (76) (AC-20R)
+403-32341 HBP (Gr S) (Asph) (76) (PG 58-40)
+403-32342 HBP (Gr S) (Asph) (76) (PG 64-28)
+403-32352 HBP (Gr S) (Asph) (76) (PG 58-28)
+403-32353 HBP (Gr S) (Asph) (76) (PG 58-22)
+403-32354 HBP (Gr S) (Asph) (76) (PG 64-22)
+403-32400 HBP (Gr SX) (76)
+403-32424 HBP (Gr SX) (Asph) (AC-20R)
+403-32446 HBP (Gr SX) (Asph) (76) (PG 64-22)
+403-32453 HBP (Gr SX) (Asph) (76) (PG 58-22)
+403-32545 HBP(Gr Sand Anti Frac) (Asph) (PG 76-28
+403-33254 HBP (Gr SG) (Asph) (86) (PG 64-22)
+403-33324 HBP (Gr S) (Asph) (86) (AC-20R)
+403-33341 HBP (Gr S) (Asph) (86) (PG 58-40)
+403-33342 HBP (Gr S) (Asph) (86) (PG 64-28)
+403-33344 HBP (Gr S) (Asph) (86) (PG 70-34)
+403-33345 HBP (Gr S) (Asph) (86) (PG 76-28)
+403-33352 HBP (Gr S) (Asph) (86) (PG 58-28)
+403-33353 HBP (Gr S) (Asph) (86) (PG 58-22)
+403-33354 HBP (Gr S) (Asph) (86) (PG 64-22)
+403-33400 HBP (Gr SX) (86)
+403-33441 HBP (Gr SX) (Asph) (86) (PG 58-40)
+403-33444 HBP (Gr SX) (Asph) (86) (PG 70-34)
+403-33451 HBP (Gr SX) (Asph) (86) (PG 52-28)
+403-33452 HBP (Gr SX) (Asph) (86) (PG 58-28)
+403-33453 HBP (Gr SX) (Asph) (86) (PG 58-22)
+403-33641 HBP (Gr S-Fines) (Asph) (86) (PG 58-40)
+403-33652 HBP (Gr S-Fines) (Asph) (86) (PG 58-28)
+403-34253 HBP (Gr SG) (Asph) (96) (PG 58-22)
+403-34254 HBP (Gr SG) (Asph) (96) (PG 64-22)
+403-34324 HBP (Gr S) (Asph) (96) (AC-20R)
+403-34341 HBP (Gr S) (Asph) (96) (PG 58-40)
+403-34342 HBP (Gr S) (Asph) (96) (PG 64-28)
+403-34344 HBP (Gr S) (Asph) (96) (PG 70-34)
+403-34345 HBP (Gr S) (Asph) (96) (PG 76-28)
+403-34352 HBP (Gr S) (Asph) (96) (PG 58-28)
+403-34353 HBP (Gr S) (Asph) (96) (PG 58-22)
+403-34354 HBP (Gr S) (Asph) (96) (PG 64-22)
+403-34400 HBP (Gr SX) (96)
+403-34441 HBP (Gr SX) (Asph) (96) (PG 58-40)
+403-34444 HBP (Gr SX) (Asph) (96) (PG 70-34)
+403-34452 HBP (Gr SX) (Asph) (96) (PG 58-28)
+403-34453 HBP (Gr SX) (Asph) (96) (PG 58-22)
+403-34454 HBP (Gr SX) (Asph) (96) (PG 64-22)
+403-34652 HBP (Gr S-Fines) (Asph) (96) (PG 58-28)
+403-35300 HBP (Gr S) (109)
+403-35324 HBP (Gr S) (Asph) (109) (AC-20R)
+403-35342 HBP (Gr S) (Asph) (109) (PG 64-28)
+403-35344 HBP (Gr S) (Asph) (109) (PG 70-34)
+403-35345 HBP (Gr S) (Asph) (109) (PG 76-28)
+403-35353 HBP (Gr S) (Asph) (109) (PG 58-22)
+403-35354 HBP (Gr S) (Asph) (109) (PG 64-22)
+403-35400 HBP (Gr SX) (109)
+403-35445 HBP (Gr SX) (Asph) (109) (PG 76-28)
+403-35452 HBP (Gr SX) (Asph) (109) (PG 58-28)
+403-37354 HBP (Gr S) (Asph) (96) (PG 64-22)
+403-37545 HBP (Gr SAF) (Asph) (50) (PG 76-28)
+403-91401 HBP (Gr SX) (68) (Spec)
+403-92441 HBP (Gr SX) (76) (PG 58-40) (Spec)
+403-95353 HBP (Gr S) (Asph) (109) (PG 58-22)(Spec)
+405-00000 Heating and Scarifying
+405-00100 Heating and Remixing Treatment
+405-00300 Heating and Repaving Treatment
+ ,        RMBP                            ,T
+406-09500 Cold Bitum Pvmt (Recycle)
+406-09505 Cold Bitum Pvmt (Recycle)(Spec)
+406-09530 Repair of Cold Bitum Pvmt (Recycle)
+407-03000 Blotter Material
+407-04000 Coal-Tar Seal/Rejuvinator (Airport)
+407-09000 Crackfiller (Application)
+408-01000 Hot Joint-Crack Sealant
+408-01100 Crack Sealant (Polyurthn)
+408-01200 Cold Joint-Crack Sealant
+408-01300 HBP Mix Crack Sealant
+408-01400 Crack Sealant (Special)
+408-02000 Injection Holes
+409-00110 Stockpile CC Matl
+409-01010 CC Matl (Ty I)
+409-01015 CC Matl (Ty I)
+409-01020 CC Matl (Ty I) (Lightweight)
+409-02010 CC Matl (Ty II)
+409-02015 CC Matl (Ty II)
+409-02020 CC Matl (Ty II) (Lightweight)
+409-02025 CC Matl (Ty II) (Lightweight)
+409-02050 CC Matl (Ty II) (Special)
+409-03010 CC Matl (Ty III)
+409-03050 Place CC Matl
+409-03060 Furn CC Matl
+409-04010 CC Matl (Ty IV)
+409-04050 CC Matl (Spec)
+409-04060 CC Matl (Asph) (Spec)
+409-08000 Squeegee Seal
+409-09000 Micro-Surfacing Seal Coat
+409-09010 Micro-Surfacing Aggregate
+410-00000 Slurry Seal Coat
+410-00100 Slurry Seal Coat (Airport)
+411-01050 Asph Cement (AC-5)
+411-01051 Asph Cement (AC-5) (F)
+411-01100 Asph Cement (AC-10)
+411-01101 Asph Cement (AC-10) (F)
+411-01200 Asph Cement (AC-20)
+411-01204 Asph Cement (AC-20) (Rub)
+411-03000 Asph Cement (Cat B) (50-60)
+411-03100 AC Scrap Rub Crack Filler
+411-03110 AC Rubberized Crack Filler
+411-03200 Asph Cem (Polymer Mod) (Spec)
+411-03313 Asph Cem (Polymer Mod) (Ty I-D)
+411-03333 Asph Cem (Polymer Mod) (Ty III-D)
+411-03341 Asph Cem (PG 58-40)
+411-03342 Asph Cem (PG 64-28)
+411-03343 Asph Cem (PG 64-34)
+411-03344 Asph Cem (PG 70-34)
+411-03345 Asph Cem (PG 76-28)
+411-03351 Asph Cem (PG 52-28)
+411-03352 Asph Cem (PG 58-28)
+411-03353 Asph Cem (PG 58-22)
+411-03354 Asph Cem (PG 64-22)
+411-10010 Emul Asph (CQS-1HP) (Fog) (Airport)
+411-10200 Emul Asph (CRS-1)
+411-10216 Emul Asph (CRS-2P)
+411-10251 Emul Asph (CSS-1)
+411-10252 Emul Asph (CSS-1P)
+411-10253 Emul Asph (CSS-1H)
+411-10254 Emul Asph (CSS-1H) (Mod)
+411-10255 Emul Asph (SS)
+411-10260 Emul Asph (RS-P)
+411-10262 Emul Asph (MS-P)
+411-10265 Emul Asph (Poly)
+411-10275 Emul Asph (HFMS-2P)
+411-10276 Emul Asph (HFMS-2SP)
+411-10277 Emul Asph (HFMS-2HP)
+411-10280 Emul Asph (HFMS-80SC)
+411-10300 Emul Asph (Prime Coat)
+411-10375 Emul Asph (HFRS-2P)
+411-21020 Liq Asph Matl (MC-70)
+411-90010 Asph Rejuvenating Agent
+411-90040 Recycling Agent
+411-90050 Emul Recycling Agent
+412-00000 Furn Conc Pvmt
+412-00050 Pl Conc Pvmt
+412-00400 Conc Pvmt (100 mm)
+412-00500 Conc Pvmt (125 mm)
+412-00505 Conc Pvmt (125 mm) (Fast Track)
+412-00550 Conc Pvmt (140 mm)
+412-00600 Conc Pvmt (150 mm)
+412-00601 Conc Pvmt (150 mm) (Spec)
+412-00605 Conc Pvmt (150 mm) (Fast Track)
+412-00615 Conc Pvmt (150 mm) (R)
+412-00650 Conc Pvmt (160 mm)
+412-00700 Conc Pvmt (175 mm)
+412-00701 Conc Pvmt (175 mm) (Spec)
+412-00715 Conc Pvmt (175 mm) (R)
+412-00750 Conc Pvmt (190 mm)
+412-00752 Conc Pvmt (190 mm) (Fast Track)
+412-00800 Conc Pvmt (200 mm)
+412-00801 Conc Pvmt (200 mm) (Spec)
+412-00805 Conc Pvmt (200 mm) (Fast Track)
+412-00815 Conc Pvmt (200 mm) (R)
+412-00825 Conc Pvmt (210 mm)
+412-00835 Conc Pvmt (210 mm) (Fast Track)
+412-00850 Conc Pvmt (215 mm)
+412-00851 Conc Pvmt (215 mm) (Spec)
+412-00870 Conc Pvmt (215 mm) (Fast Track)
+412-00875 Conc Pvmt (220 mm)
+412-00900 Conc Pvmt (225 mm)
+412-00901 Conc Pvmt (225 mm) (Spec)
+412-00905 Conc Pvmt (230 mm)
+412-00920 Conc Pvmt (225 mm) (Fast Track)
+412-00925 Conc Pvmt (235 mm)
+412-00926 Conc Pvmt (235 mm) (Spec)
+412-00927 Conc Pvmt (235 mm) (Fast Track)
+412-00950 Conc Pvmt (240 mm)
+412-00951 Conc Pvmt (240 mm) (Spec)
+412-00952 Conc Pvmt (240 mm) (Fast Track)
+412-01000 Conc Pvmt (250 mm)
+412-01001 Conc Pvmt (250 mm) (Spec)
+412-01015 Conc Pvmt (250 mm) (R)
+412-01020 Conc Pvmt (250 mm) (Fast Track)
+412-01025 Conc Pvmt (260 mm)
+412-01050 Conc Pvmt (265 mm)
+412-01055 Conc Pvmt (265 mm) (Spec)
+412-01060 Conc Pvmt (265 mm) (Fast Track)
+412-01100 Conc Pvmt (275 mm)
+412-01105 Conc Pvmt (275 mm) (Spec)
+412-01120 Conc Pvmt (275 mm) (Fast Track)
+412-01150 Conc Pvmt (290 mm)
+412-01152 Conc Pvmt (290 mm) (Fast Track)
+412-01155 Conc Pvmt (290 mm) (Spec)
+412-01200 Conc Pvmt (300 mm)
+412-01215 Conc Pvmt (300 mm) (R)
+412-01220 Conc Pvmt (300 mm) (Fast Track)
+412-01250 Conc Pvmt (315 mm)
+412-01252 Conc Pvmt (315 mm) (Fast Track)
+412-01255 Conc Pvmt (300 mm) (Spec)
+412-01300 Conc Pvmt (330 mm)
+412-01350 Conc Pvmt (340 mm)
+412-01352 Conc Pvmt (340 mm) (Fast Track)
+412-03000 Conc Pvmt System
+412-10000 Sawing Conc Pvmt
+412-13000 Conc Pavement Joint Repair
+412-14000 Sawing and Sealing Joints
+412-15000 Routing and Sealing Cracks
+412-15010 Clean & Grout Conc Pvmt Joint
+412-15050 Cross Stitching
+412-16000 Cleaning + Sealing Joints
+412-18000 Crack & Seat Conc Pvmt
+412-18010 Rubbil of Conc Pvmt (Crack and Seat)
+412-18020 Rubbil of Conc Pvmt (Resonant Breaker)
+412-18030 Rubbil of Conc Pvmt (Multi-Head Breaker)
+412-30800 Conc Pvmt (200 mm) (Shrp)
+412-30801 Conc Pvmt (200 mm) (Spec) (Shrp)
+412-31100 Conc Pvmt (275 mm) (Shrp)
+412-31101 Conc Pvmt (275 mm) (Spec) (Shrp)
+412-80001 Shoulder Pavement Alternate
+420-00000 Geomembrane
+420-00100 Geotextile (Er Cont) (CL A)
+420-00101 Geotextile (Er Cont) (CL B)
+420-00110 Geotextile (Drain) (CL A)
+420-00111 Geotextile (Drain) (CL B)
+420-00130 Geotextile (Separator) (CL A)

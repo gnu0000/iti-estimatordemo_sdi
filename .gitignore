@@ -1,0 +1,15 @@
+Release/
+Debug/
+bkup/
+*.bak
+*.zip
+*.exe
+*.obj
+*.plb
+*.opt
+*.idb
+*.rgs
+*.sbr
+*.pch
+*.pdb
+a.o

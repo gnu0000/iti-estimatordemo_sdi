@@ -1,0 +1,46 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: EstDemo - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\CRAIGF~1\LOCALS~1\Temp\RSP4EE.tmp" with contents
+[
+dundas_debug.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/EstDemo.pdb" /debug /machine:I386 /out:"Debug/EstDemo.exe" /pdbtype:sept /libpath:"..\..\Expedite\debug" 
+.\Debug\DV_Blank.obj
+.\Debug\DV_Est.obj
+.\Debug\DV_EstPage1.obj
+.\Debug\DV_EstPage2.obj
+.\Debug\DV_EstPage3.obj
+.\Debug\DV_Group.obj
+.\Debug\DV_Item.obj
+.\Debug\DV_Sheet.obj
+.\Debug\DynaDialog.obj
+.\Debug\EstDemo.obj
+.\Debug\EstDemoDoc.obj
+.\Debug\EstDemoView.obj
+.\Debug\LV_CostList.obj
+.\Debug\LV_GroupList.obj
+.\Debug\LV_ItemList.obj
+.\Debug\MainFrm.obj
+.\Debug\ResizingPropSheet.obj
+.\Debug\StdAfx.obj
+.\Debug\TV.obj
+.\Debug\TV_CatPage.obj
+.\Debug\TV_EstPage.obj
+.\Debug\TV_Sheet.obj
+.\Debug\EstDemo.res
+]
+Creating command line "link.exe @C:\DOCUME~1\CRAIGF~1\LOCALS~1\Temp\RSP4EE.tmp"
+<h3>Output Window</h3>
+Linking...
+
+
+
+<h3>Results</h3>
+EstDemo.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

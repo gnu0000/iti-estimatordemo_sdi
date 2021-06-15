@@ -1,0 +1,35 @@
+ren LeftView.*      TV.*
+ren TreeSheet.*     TV_Sheet.*
+ren EstTreePage.*   TV_EstPage.*
+ren CatTreePage.*   TV_CatPage.*
+ren EstView.*       DV_Est.*
+ren EstViewSheet.*  DV_Sheet.*
+ren EstViewPage1.*  DV_EstPage1.*
+ren EstViewPage2.*  DV_EstPage2.*
+ren Blank.*         DV_Blank.*
+ren GroupView.*     DV_Group.*
+ren ItemView.*      DV_Item.*
+ren GroupView.*     DV_Group.*
+ren ItemView.*      DV_Item.*
+ren GroupListView.* LV_GroupList.*
+ren ItemListView.*  LV_ItemList.*
+ren CostListView.*  LV_CostList.*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
